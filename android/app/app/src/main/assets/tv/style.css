@@ -1,0 +1,5 @@
+html,body{margin:0;height:100%;background:#000;overflow:hidden;font-family:sans-serif}
+#v{position:absolute;left:0;top:0;width:100%;height:100%;object-fit:contain;background:#000}
+#cursor{position:absolute;width:22px;height:22px;margin:-11px 0 0 -11px;border:3px solid #fff;border-radius:50%;
+  background:rgba(255,80,80,.55);box-shadow:0 0 6px #000;pointer-events:none;display:none}
+#status{position:absolute;left:20px;top:16px;color:#fff;font-size:26px;text-shadow:0 0 6px #000}
