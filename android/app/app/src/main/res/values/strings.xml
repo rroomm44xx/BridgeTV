@@ -1,1 +1,3 @@
-
+<resources>
+    <string name="input_desc">Lets the TV remote tap, swipe and press Back or Home on this phone while Bridge is mirroring the screen.</string>
+</resources>
